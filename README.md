@@ -2,7 +2,7 @@
 #### I am Beginner developer
 
 
-Skills: Python
+Skills: Python, html
 
 
 
