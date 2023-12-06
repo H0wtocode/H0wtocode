@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is how_to_code
 #### I am Beginner developer
-![I am Beginner developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 Skills: Python
