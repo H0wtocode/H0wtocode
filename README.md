@@ -1,10 +1,8 @@
-### Hi there 👋, My name is how_to_code
-#### I am Beginner developer
+### 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋, 𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 𝒉𝒐𝒘_𝒕𝒐_𝒄𝒐𝒅𝒆
+#### 𝑰 𝒂𝒎 𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓
 
 
-Skills: Python, html
-
-<a href="https://www.instagram.com/_._eman_on_._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=#E4405F&logoColor=000000"/></a>
+𝑺𝒌𝒊𝒍𝒍𝒔 : 𝑷𝒚𝒕𝒉𝒐𝒏
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/H0wtocode) 
