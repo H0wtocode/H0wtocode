@@ -4,6 +4,7 @@
 
 Skills: Python, html
 
+<a href="https://www.instagram.com/_._eman_on_._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=#E4405F&logoColor=000000"/></a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/H0wtocode) 
