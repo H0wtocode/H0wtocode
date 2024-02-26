@@ -1,7 +1,7 @@
 ### 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋, 𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 𝑺𝒖𝒏𝒈𝒎𝒊𝒏
 #### 𝑰 𝒂𝒎 𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓
 
-𝑺𝒌𝒊𝒍𝒍𝒔 : 𝑷𝒚𝒕𝒉𝒐𝒏
+## 👨‍💻 Tech stacks 👨‍💻
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/H0wtocode) 
 
