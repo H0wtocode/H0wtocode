@@ -8,4 +8,4 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/H0wtocode) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=H0wtocode&show_icons=true)  
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.instagram.com%2F_._eman_on_._&count_bg=%23000000&title_bg=%23000000&icon=piwigo.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
